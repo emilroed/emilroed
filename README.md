@@ -3,6 +3,7 @@
 <!---**emilroed/emilroed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 ##### 🔭 Currently exploring cosmic code realms! 🚀🌌
+I'm currently
     I'm currently exploring the mysteries of cosmic code realms and creating exciting online experiences.
 
 ##### 🌱 Learning the art of web wizardry! 💻🪄
