@@ -4,7 +4,7 @@
 I'm currently exploring the mysteries of cosmic code realms and creating exciting online experiences.
 
 <details>
-  <summary><i> 🔭 Currently exploring cosmic code realms! 🚀🌌</i></summary>
+  <summary><i><b> 🔭 Currently exploring cosmic code realms! 🚀🌌</b></i></summary>
   <b>I'm currently exploring the mysteries of cosmic code realms and creating exciting online experiences.</b>
 </details>
 
