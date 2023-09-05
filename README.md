@@ -1,4 +1,4 @@
-### Hi there 👋 Step into my cosmic code universe! 🪐🚀💫
+## Hi there 👋 Step into my cosmic code universe! 🪐🚀💫
 
 <details>
   <summary><b>🔭 Currently exploring cosmic code realms! 🚀🌌</b></summary>
