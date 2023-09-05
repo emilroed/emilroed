@@ -2,6 +2,12 @@
 
 #### 🔭 Currently exploring cosmic code realms! 🚀🌌
 I'm currently exploring the mysteries of cosmic code realms and creating exciting online experiences.
+
+<details>
+  <summary><i>#### 🔭 Currently exploring cosmic code realms! 🚀🌌</i></summary>
+  <b>WOW, SO BOLD</b>
+</details>
+
 #### 🌱 Learning the art of web wizardry! 💻🪄
 I'm constantly learning the art of being a web wizard and bringing design to life with HTML, CSS, and JavaScript.
 #### 👯 Ready to collaborate on interstellar projects! 🌠🚀
